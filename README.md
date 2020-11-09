@@ -1,2 +1,2 @@
 # transition-words
-Essay BS helper
+Essay BS helper, thanks to John A. Dowell who originally published this [here](https://msu.edu/~jdowell/135/transw.html).
